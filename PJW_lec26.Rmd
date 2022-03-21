@@ -1,0 +1,17 @@
+---
+title: "PJW_Lec26"
+author: "PJ Williams"
+date: "3/21/2022"
+output: pdf_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x <- rnorm(100)
+hist(x)
+```
