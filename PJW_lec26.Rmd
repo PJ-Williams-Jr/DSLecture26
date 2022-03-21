@@ -15,3 +15,5 @@ knitr::opts_chunk$set(echo = TRUE)
 x <- rnorm(100)
 hist(x)
 ```
+
+![Karl Frederick Gauss was a German mathematician and physicist who made significant contributions to many fields in mathematics and science](KarlFrederickGauss.jpeg)
