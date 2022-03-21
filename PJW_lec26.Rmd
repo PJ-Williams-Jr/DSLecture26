@@ -1,11 +1,10 @@
 ---
-title: "PJW_Lec26"
-author: "PJ Williams"
-date: "3/21/2022"
 output: pdf_document
 editor_options: 
   chunk_output_type: console
 ---
+# PJ Williams
+## Date: March 22, 2022
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -16,4 +15,6 @@ x <- rnorm(100)
 hist(x)
 ```
 
-![Karl Frederick Gauss was a German mathematician and physicist who made significant contributions to many fields in mathematics and science](KarlFrederickGauss.jpeg)
+\newpage
+
+![Karl Frederick Gauss was a German mathematician and physicist who made significant contributions to many fields in mathematics and science](KarlFrederickGauss.jpeg){width=20%}
